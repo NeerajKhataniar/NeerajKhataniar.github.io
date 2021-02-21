@@ -1,10 +1,12 @@
 nav {
     width: 100%;
-    display: inline;
+    display: inline-block;
 }
 
 
-
+header {
+    display: inline-block;
+}
 
 
 
